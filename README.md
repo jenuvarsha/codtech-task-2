@@ -9,5 +9,7 @@ To implement a simple linear regression model using Python, we'll follow these s
 4)Evaluate the Model
 5)Make Predictions and Visualize Results
 The output is as follows:
-C:\Users\Jenu Varsha\Downloads\i1.png
-C:\Users\Jenu Varsha\Downloads\12.png
+![i1](https://github.com/user-attachments/assets/dc872d14-dafb-4871-b46c-e5d3de17dd33)
+
+![12](https://github.com/user-attachments/assets/967fc2e5-6582-4cbb-ab0c-af090023a531)
+
