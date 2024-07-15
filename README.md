@@ -1,4 +1,11 @@
 # codtech-task-2
+Name:R.Jenuvarsha 
+Company:CODTECH SOLUTIONS 
+ID:CT04DA2291 
+Domain:Data analyst 
+Duration:June 15 to July 15 2024 
+Mentor:sravani gouni
+
 The purpose of code is to implement a simple linear regression model using a dataset with continuous  target variables. Split the data into training and testing sets, train the model on the training data, evaluate its performance using metrics like mean squared  error or R-squared, and make predictions on the test set. Visualize the regression line and actual vs. predicted values to assess the model's accuracy
 
 To implement a simple linear regression model using Python, we'll follow these steps:
